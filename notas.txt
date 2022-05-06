@@ -1,0 +1,9 @@
+# components
+https://tailwindcomponents.com/cheatsheet/
+https://tailblocks.cc/
+https://www.tailwindtoolbox.com/starter-templates
+https://tailwindui.com/
+https://daisyui.com/
+https://tailwind-elements.com/#section-components
+https://flowbite.com/ (este es de los chidos)
+https://mambaui.com/
